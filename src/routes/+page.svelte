@@ -24,7 +24,7 @@
 			description: 'Pempek ikan tenggiri asli dengan tekstur kenyal sempurna dan rasa ikan yang dominan. Disajikan dengan Cuko kental pedas manis gula aren yang otentik dan bikin nagih',
 			price: 'Rp 85.000',
 			originalPrice: 'Rp 95.000',
-			image: '/src/lib/assets/2.png',
+			image: '/2.png',
 			category: 'Main Course',
 			badge: 'Best Seller'
 		},
@@ -33,7 +33,7 @@
 			name: 'Pempek Mix',
 			description: 'Paket komplit untuk pecinta variasi! Paduan nikmat dari Pempek Lenjer, Adaan, dan Kulit dalam satu piring. Nikmati sensasi beragam tekstur gurih yang berpadu harmonis dengan guyuran kuah Cuko segar',
 			price: 'Rp 45.000',
-			image: '/src/lib/assets/3.png',
+			image: '/3.png',
 			category: 'Traditional'
 		},
 		{
@@ -41,7 +41,7 @@
 			name: 'Super Tekwan',
 			description: 'Semangkuk kehangatan dari kaldu udang asli yang gurih dan bening. Dilengkapi dengan bola ikan tenggiri yang lembut, irisan jamur kuping, soun, dan sedap malam. Cita rasa segar yang memanjakan lidah.',
 			price: 'Rp 25.000',
-			image: '/src/lib/assets/4.png',
+			image: '/4.png',
 			category: 'Condiment',
 			badge: 'Spicy'
 		},
@@ -50,7 +50,7 @@
 			name: 'Pempek Crispy',
 			description: 'Sensasi kriuk yang tak tertandingi! Pempek kulit yang digoreng kering hingga keemasan, menghasilkan tekstur super renyah namun tetap lembut di dalam. Camilan gurih yang pas untuk menemani waktu santai.',
 			price: 'Rp 35.000',
-			image: '/src/lib/assets/5.png',
+			image: '/5.png',
 			category: 'Grilled'
 		},
 		{
@@ -58,7 +58,7 @@
 			name: 'Pempek Keju',
 			description: 'Kejutan rasa yang lumer di mulut! Perpaduan modern daging ikan tenggiri yang gurih dengan isian keju creamy yang meleleh saat digigit. Kombinasi rasa savory dan creamy yang mewah.',
 			price: 'Rp 65.000',
-			image: '/src/lib/assets/6.png',
+			image: '/6.png',
 			category: 'Rice Dish'
 		},
 		{
@@ -66,7 +66,7 @@
 			name: 'Otak-Otak goreng',
 			description: 'Camilan praktis dengan aroma ikan yang kuat. Otak-otak goreng dengan tekstur kenyal dan padat, digoreng hingga kulit luarnya sedikit garing. Paling nikmat dicocol dengan saus cuko atau sambal merah.',
 			price: 'Rp 35.000',
-			image: '/src/lib/assets/7.png',
+			image: '/7.png',
 			category: 'Salad'
 		},
 		{
@@ -74,7 +74,7 @@
 			name: 'Pisang Crispy',
 			description: 'Pisang pilihan yang manis alami, dibalut dengan tepung racikan khusus yang super renyah dan tahan lama. Ditambah topping melimpah (Cokelat/Keju) yang menyempurnakan rasa manis dan gurih di setiap gigitan.',
 			price: 'Rp 30.000',
-			image: '/src/lib/assets/8.png',
+			image: '/8.png',
 			category: 'Soup',
 			badge: 'Popular'
 		}
@@ -107,7 +107,7 @@
 <!-- Hero Section -->
 <Hero 
 	{...heroData}
-	backgroundImage="/src/lib/assets/1.png"
+	backgroundImage="/1.png"
 	onSearch={handleHeroSearch}
 />
 

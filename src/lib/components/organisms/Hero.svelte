@@ -190,7 +190,7 @@
 								onclick={() => window.open('https://www.instagram.com/miniefood.indonesia/', '_blank')}
 							>
 								<div class="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300"></div>
-								<img src="/src/lib/assets/Instagram_Glyph_White.png" alt="Instagram" class="w-6 h-6 relative z-10" />
+								<img src="/Instagram_Glyph_White.png" alt="Instagram" class="w-6 h-6 relative z-10" />
 								<span class="text-white text-sm font-bold relative z-10">Instagram</span>
 							</button>
 
@@ -201,7 +201,7 @@
 								onclick={() => window.open('https://www.tiktok.com/@pempekminie', '_blank')}
 							>
 								<div class="absolute inset-0 bg-white/10 translate-y-full group-hover:translate-y-0 transition-transform duration-300"></div>
-								<img src="/src/lib/assets/tiktok.png" alt="TikTok" class="w-6 h-6 relative z-10" />
+								<img src="/tiktok.png" alt="TikTok" class="w-6 h-6 relative z-10" />
 								<span class="text-white text-sm font-bold relative z-10">TikTok</span>
 							</button>
 						</div>
@@ -217,7 +217,7 @@
 								<span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
 								<span class="relative inline-flex rounded-full h-3 w-3 bg-white"></span>
 							</div>
-							<img src="/src/lib/assets/whatsapp.png" alt="WhatsApp" class="w-7 h-7 relative z-10 animate-pulse" />
+							<img src="/whatsapp.png" alt="WhatsApp" class="w-7 h-7 relative z-10 animate-pulse" />
 							<span class="text-white text-base font-black relative z-10">PESAN VIA WHATSAPP</span>
 						</button>
 					</div>
