@@ -75,6 +75,7 @@ export type Database = {
           name: string
           photos: Json | null
           price: number
+          slug: string
         }
         Insert: {
           category_id: number
@@ -85,6 +86,7 @@ export type Database = {
           name: string
           photos?: Json | null
           price: number
+          slug?: string
         }
         Update: {
           category_id?: number
@@ -95,6 +97,7 @@ export type Database = {
           name?: string
           photos?: Json | null
           price?: number
+          slug?: string
         }
         Relationships: [
           {
